@@ -1,0 +1,26 @@
+.each {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  margin: 5px;
+  background-color: #1a171d;
+  width: 100%;
+}
+.text {
+  color: white;
+  font-size: 20px;
+}
+.but {
+  background-color: #f3aa4e;
+  border: 2px solid #f3aa4e;
+  color: black;
+  border-radius: 7px;
+  margin: 5px;
+}
+.color {
+  color: #f3aa4e;
+  font-weight: bold;
+  font-size: 30px;
+}

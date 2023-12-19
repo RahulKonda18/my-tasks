@@ -1,0 +1,18 @@
+.tag-button {
+  background-color: black;
+  border: 2px solid #f3aa4e;
+  color: white;
+  border-radius: 7px;
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+.but {
+  background-color: #f3aa4e;
+  border: 2px solid #f3aa4e;
+  color: black;
+  border-radius: 7px;
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
